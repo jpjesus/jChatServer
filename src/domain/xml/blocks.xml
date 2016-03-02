@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : connections.xml
+    Created on : 6 de agosto de 2011, 05:47 PM
+    Author     : PC
+    Description:
+        this document contains 
+-->
+<blocks>
+  <blocks nickname1="joha" nickname2="jpjesus" block="Other Friends" friendship="true" />
+  <blocks nickname1="jpjesus" nickname2="joha" block="Other Friends" friendship="true" />
+  <blocks nickname1="jpjesus" nickname2="erickman" block="Other Friends" friendship="true" />
+  <blocks nickname1="erickman" nickname2="jpjesus" block="Other Friends" friendship="true" />
+  <blocks nickname1="joha" nickname2="erickman" block="Other Friends" friendship="true" />
+  <blocks nickname1="erickman" nickname2="joha" block="Other Friends" friendship="true" />
+  <blocks nickname1="rcasanova" nickname2="jpjesus" block="Other Friends" friendship="true" />
+  <blocks nickname1="jpjesus" nickname2="rcasanova" block="Other Friends" friendship="true" />
+</blocks>
+

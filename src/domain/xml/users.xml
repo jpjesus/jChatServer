@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : connections.xml
+    Created on : 6 de agosto de 2011, 05:47 PM
+    Author     : PC
+    Description:
+        this document contains 
+-->
+<users>
+  <user name="jesus" lastname="parada" secondlastname="duque" birthdate="10/08/11" nickname="jpjesus" mail="jesus@hotmail.com" password="123" active="true" ip="192.168.1.100" port="7691" status="false" />
+  <user name="johana" lastname="lopez" secondlastname="garcia" birthdate="07/08/11" nickname="joha" mail="joha@hotmail.com" password="123" active="true" ip="192.168.1.100" port="7692" status="false" />
+  <user name="erick" lastname="Medina" secondlastname="Arteaga" birthdate="04/08/11" nickname="erickman" mail="erick@hotmail.com" password="123" active="true" ip="192.168.1.100" port="7692" status="false" />
+  <user name="ricky" lastname="casa" secondlastname="kopak" birthdate="14/08/11" nickname="rcasanova" mail="rcasa@hotmail.com" password="123" active="true" ip="192.168.1.100" port="7692" status="false" />
+</users>
+

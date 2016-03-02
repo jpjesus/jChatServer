@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : groups.xml
+    Created on : 25 de agosto de 2011, 21:27
+    Author     : Magaly
+    Description:
+        Purpose of the document follows.
+-->
+
+<groups>
+ <group nickname="joha"    group="Other Friends" />
+ <group nickname="jpjesus" group="Other Friends" />
+ <group nickname="erickman" group="Other Friends" />
+ 
+</groups>
